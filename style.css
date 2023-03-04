@@ -1,0 +1,48 @@
+body {
+  border-style: solid;
+  border-width: 45px;
+  border-color: transparent;
+}
+
+caption {
+  font-size: large;
+  text-align: left;
+}
+
+h1{
+	font-weight: bold;
+	text-align: center;
+}
+p{
+	text-align: center;
+  font-size: 18px;
+}
+hr
+{
+  background-color: black;
+  height: 5px;
+}
+.h {
+  background-color: black;
+  height: 2px;
+}
+
+th {
+  text-align: left;
+  font-size: large;
+}
+
+tr{
+  colspan="2"
+}
+
+table{
+  width: 125%;
+}
+
+th, td{
+  vertical-align: top;
+  height:30px;
+  border: 15px solid transparent;
+}
+
